@@ -10,8 +10,6 @@ The SeucreVault app's code uses Design Patterns: MVVM, Singleton.
 
 Built With
 Android Studio.
-Contributing
-
 
 
 Authors:
@@ -20,5 +18,5 @@ Yotam Shoval,
 Evgeny Iseev,
 Idan Bardugo .
 
-
+Full demonstration: https://www.youtube.com/watch?v=aiUE0lkhenY&feature=youtu.be
 
