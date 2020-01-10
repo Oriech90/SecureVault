@@ -17,7 +17,7 @@ Contributing
 Authors:
 Ori Even Chen,
 Yotam Shoval,
-Ivgeny Iseev,
+Evgeny Iseev,
 Idan Bardugo .
 
 
