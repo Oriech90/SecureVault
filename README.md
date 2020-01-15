@@ -1,5 +1,5 @@
 # SecureVault
-<img src="https://github.com/Oriech90/SecureVault/blob/master/SecureVault%20png.png" width="300" height="300">
+<img src="https://github.com/Oriech90/SecureVault/blob/master/SecureVault%20png.png" >
 
 SecureVault is an application that secures and encrypts private information like Bank Account details, 
 Credit Cards, special notes, Cryptography currencies and more.
