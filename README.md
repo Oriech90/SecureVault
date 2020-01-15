@@ -18,5 +18,8 @@ Yotam Shoval,
 Evgeny Iseev,
 Idan Bardugo .
 
+
+<img src="https://github.com/Oriech90/SecureVault/blob/master/SecureVaultGif.gif" width="40" height="40" />
+
 Full demonstration: https://www.youtube.com/watch?v=aiUE0lkhenY&feature=youtu.be
 
